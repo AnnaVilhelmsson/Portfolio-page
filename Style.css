@@ -1,0 +1,49 @@
+header {
+    color: rgb(238, 2, 140);
+    font-size:  15px;
+}
+
+
+
+h1 {
+    color:rgb(238, 2, 140);
+    font-size:  40px; 
+}
+
+
+.pink-box {
+    background-color:pink;
+    padding:20px ;
+    width: 600px; 
+}
+
+.pink-box img {
+  width:100% ;
+}
+
+
+
+.pink-box2 {
+    background-color: pink;
+    padding:20px ;
+    width:600px ;
+
+
+}
+
+
+h2 {
+    color:rgb(238, 2, 140);
+    font-size:  40px;
+   
+}
+
+p  {
+    color:rgb(243, 106, 158);
+ font-size:  18px;
+}
+
+li {
+    color: rgb(243, 106, 158);
+    font-size:  22px; 
+}
